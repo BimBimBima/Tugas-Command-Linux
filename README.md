@@ -2,6 +2,7 @@
 
 ### 1. whoami
 Digunakan untuk menampilkan nama pengguna yang sedang login saat ini
+
 ![Screenshot 2024-09-02 195656](https://github.com/user-attachments/assets/7b0c6419-1e5c-4d42-8547-55cb3d1bf1b2)
 ### 2. ls
 Digunakan untuk menampilkan daftar/list file dan direktori pada direktori yang dipilih saat ini
