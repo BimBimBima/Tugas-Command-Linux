@@ -117,6 +117,7 @@ Digunakan untuk menampilkan direktori dan file di dalamnya
 ### 27. free 
 Digunakan untuk menampilkan penggunaan memori sistem
 
+![Screenshot 2024-09-02 204724](https://github.com/user-attachments/assets/a62dac9e-415e-41e7-811f-20de38703bb8)
 ### 28. uname
 Digunakan untuk menampilkan informasi sistem operasi yang digunakan
 
@@ -133,6 +134,71 @@ Digunakan untuk menampilkan atau mengatur tanggal dan waktu sistem
 Digunakan untuk mengubah izin akses file atau direktori
 
 ![Screenshot 2024-09-02 205224](https://github.com/user-attachments/assets/ceaa8edc-0133-4ead-9612-719f26aac236)
-### 32. 
+### 32. ps
+Digunakan untuk menampilkan daftar proses yang sedang berjalan
 
+![Screenshot 2024-09-02 205803](https://github.com/user-attachments/assets/602f9a80-e670-4901-aeb0-191fdb2cd183)
+### 33. history
+Digunakan untuk menampilkan daftar perintah yang telah dijalankan sebelumnya di terminal
 
+![Screenshot 2024-09-02 205856](https://github.com/user-attachments/assets/ea50f46a-bf5e-4c18-8fc6-eb29d913aa7c)
+### 34. (sudo) apt install net-tools
+Digunakan untuk mengintall net-tools
+
+![Screenshot 2024-09-02 210405](https://github.com/user-attachments/assets/b4fca9c9-a969-409d-a162-8635a3ed5f1c)
+### 35. netstat
+Digunakan untuk menampilkan informasi tentang koneksi jaringan, tabel routing, dan statistik antarmuka
+
+![Screenshot 2024-09-02 210433](https://github.com/user-attachments/assets/fd2f50ce-5b6a-4370-a7df-3b2b8fe35238)
+### 36. ss
+Digunakan untuk menampilkan statistik soket, lebih cepat dan lebih modern daripada netstat
+
+![Screenshot 2024-09-02 210518](https://github.com/user-attachments/assets/861344bf-91b3-4334-b97b-88f190dc6ae5)
+### 37. service
+Digunakan untuk mengelola layanan sistem
+
+![Screenshot 2024-09-02 210722](https://github.com/user-attachments/assets/84797617-2e8d-40ff-b542-2cf1361faf45)
+### 38. alias
+Digunakan untuk
+
+![Screenshot 2024-09-02 210954](https://github.com/user-attachments/assets/f94e7944-e8b3-4ab7-9e48-82e78601be28)
+### 39. env
+Digunakan untuk
+
+![Screenshot 2024-09-02 211142](https://github.com/user-attachments/assets/b73676fd-71dc-43f7-b421-ff41aae54718)
+### 40. cron 
+Digunakan untuk
+
+![Screenshot 2024-09-02 211452](https://github.com/user-attachments/assets/d9611154-bd01-46c6-b4b4-37c53e83d132)
+### 41. systemctl
+Digunakan untuk
+
+![Screenshot 2024-09-02 211620](https://github.com/user-attachments/assets/5de56d58-9253-4ec0-9c75-be945cf2730e)
+### 42. ping
+Digunakan untuk
+
+![Screenshot 2024-09-02 211739](https://github.com/user-attachments/assets/7523d2c9-9969-4d57-8017-895d52d86cab)
+### 43. exit
+Digunakan untuk 
+
+![Screenshot 2024-09-02 212042](https://github.com/user-attachments/assets/b3cd416f-62a1-4c0b-b4b0-407505ce95db)
+### 44. uptime
+Digunakan untuk
+
+![Screenshot 2024-09-02 212300](https://github.com/user-attachments/assets/68968847-ace5-4cd5-9dd2-6d7c54292092)
+### 45. who
+Digunakan untuk
+
+![Screenshot 2024-09-02 212323](https://github.com/user-attachments/assets/f0cbfc52-e2a8-4830-92d6-9ef5a44f74b8)
+### 46. tac
+Digunakan untuk
+
+![Screenshot 2024-09-02 212457](https://github.com/user-attachments/assets/9de21cb4-73a4-477a-930b-6e2e2986ebab)
+### 47. stat
+Digunakan untuk
+
+![Screenshot 2024-09-02 212522](https://github.com/user-attachments/assets/091ca150-fe14-4f58-9465-26e13759b3b8)
+### 48. diff
+Digunakan untuk
+
+![Screenshot 2024-09-02 212838](https://github.com/user-attachments/assets/0cae1f94-b391-424b-8cc0-d0d43b05e1f6)
