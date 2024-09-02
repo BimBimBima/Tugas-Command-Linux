@@ -67,7 +67,7 @@ Digunakan untuk mengelola software package
 Contoh kali ini akan menginstall curl
 
 ![Screenshot 2024-09-02 225149](https://github.com/user-attachments/assets/2aea80da-362b-40df-bc23-fc73b9a5906d)
-### 16. (sudo) apt-get remove "package-name"
+### 16. (sudo) apt-get remove 
 Digunakan untuk menghapus paket(package) dari sistem
 
 Contoh kali ini akan menghapus curl
