@@ -25,7 +25,7 @@ Digunakan untuk membuat file kosong atau memperbarui timestamp file yang sudah a
 
 ![Screenshot 2024-09-02 200939](https://github.com/user-attachments/assets/8c0e8517-fc9f-4555-99fb-dd186f21eb4e)
 ### 7. rm
-Digunakan untuk menghapus file atau direktori.gunakan -r jika ingin menghapus direktori
+Digunakan untuk menghapus file atau direktori, gunakan -r jika ingin menghapus direktori
 
 ![Screenshot 2024-09-02 200949](https://github.com/user-attachments/assets/99e04109-ff25-4942-accf-48f97b3a23c2)
 ### 8. cp
