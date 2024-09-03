@@ -159,47 +159,47 @@ Digunakan untuk mengelola layanan sistem
 
 ![Screenshot 2024-09-02 210722](https://github.com/user-attachments/assets/84797617-2e8d-40ff-b542-2cf1361faf45)
 ### 38. alias
-Digunakan untuk
+Digunakan untuk membuat nama perintah menjadi singkat untuk perntah yg lebih panjang
 
 ![Screenshot 2024-09-02 210954](https://github.com/user-attachments/assets/f94e7944-e8b3-4ab7-9e48-82e78601be28)
 ### 39. env
-Digunakan untuk
+Digunakan untuk mengatur variabel lingkungan
 
 ![Screenshot 2024-09-02 211142](https://github.com/user-attachments/assets/b73676fd-71dc-43f7-b421-ff41aae54718)
 ### 40. cron 
-Digunakan untuk
+Digunakan untuk menjadwallkan tugas yang akan dijalankan secara otomatis pada waktu tertentu
 
 ![Screenshot 2024-09-02 211452](https://github.com/user-attachments/assets/d9611154-bd01-46c6-b4b4-37c53e83d132)
 ### 41. systemctl
-Digunakan untuk
+Digunakan untuk mengelola layanan sistem dan proses boot pada sistem berbasis systemd
 
 ![Screenshot 2024-09-02 211620](https://github.com/user-attachments/assets/5de56d58-9253-4ec0-9c75-be945cf2730e)
 ### 42. ping
-Digunakan untuk
+Digunakan untuk mengirim ICMP Echo Request ke host tertentu untuk memeriksa konektivitas jaringan
 
 ![Screenshot 2024-09-02 211739](https://github.com/user-attachments/assets/7523d2c9-9969-4d57-8017-895d52d86cab)
 ### 43. exit
-Digunakan untuk 
+Digunakan untuk keluar dari shell atau terminal saat ini
 
 ![Screenshot 2024-09-02 212042](https://github.com/user-attachments/assets/b3cd416f-62a1-4c0b-b4b0-407505ce95db)
 ### 44. uptime
-Digunakan untuk
+Digunakan untuk  menampilkan berapa lama sistem telah berjalan sejak terakhir kali dihidupkan, beserta informasi tentang jumlah pengguna yang sedang login dan beban sistem rata-rata
 
 ![Screenshot 2024-09-02 212300](https://github.com/user-attachments/assets/68968847-ace5-4cd5-9dd2-6d7c54292092)
 ### 45. who
-Digunakan untuk
+Digunakan untuk menampilkan informasi pengguna yang sedang login ke sistem informasi saat ini
 
 ![Screenshot 2024-09-02 212323](https://github.com/user-attachments/assets/f0cbfc52-e2a8-4830-92d6-9ef5a44f74b8)
 ### 46. tac
-Digunakan untuk
+Digunakan untuk menampilkan isi file dalam urutan terbalik
 
 ![Screenshot 2024-09-02 212457](https://github.com/user-attachments/assets/9de21cb4-73a4-477a-930b-6e2e2986ebab)
 ### 47. stat
-Digunakan untuk
+Digunakan untuk menampilkan informasi mendetail tentang file atau direktori
 
 ![Screenshot 2024-09-02 212522](https://github.com/user-attachments/assets/091ca150-fe14-4f58-9465-26e13759b3b8)
 ### 48. diff
-Digunakan untuk 
+Digunakan untuk membandingkan isi dari 2 file teks dab menampilkan perbedaan antara keduanya
 
 ![Screenshot 2024-09-02 212838](https://github.com/user-attachments/assets/0cae1f94-b391-424b-8cc0-d0d43b05e1f6)
 ### 49. more
