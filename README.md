@@ -199,6 +199,15 @@ Digunakan untuk
 
 ![Screenshot 2024-09-02 212522](https://github.com/user-attachments/assets/091ca150-fe14-4f58-9465-26e13759b3b8)
 ### 48. diff
-Digunakan untuk
+Digunakan untuk 
 
 ![Screenshot 2024-09-02 212838](https://github.com/user-attachments/assets/0cae1f94-b391-424b-8cc0-d0d43b05e1f6)
+### 49. more
+Digunakan untuk menampilkan file secara bersamaan
+
+![Screenshot 2024-09-03 090551](https://github.com/user-attachments/assets/7bd02d59-19a1-4883-8e94-b565a0633068)
+### 50. clear
+Digunakan untuk menghapus semua riwayat di terminal
+
+![Screenshot 2024-09-03 090642](https://github.com/user-attachments/assets/3b60e5c0-0555-4d06-a45e-1292ac36cd99)
+
